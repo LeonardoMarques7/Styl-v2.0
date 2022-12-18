@@ -27,6 +27,7 @@ Página Inicial - OK
 Página Feminina - OK
 Página Masculina - OK
 Página Infantil - OK
+Página Carrinho - NO
 
 -------------------------------------
 
@@ -39,5 +40,6 @@ Fiquei bem feliz com o resultado, acho que inserir o BootStrap me ajudou basntan
 
 Provavelmente farei outras alterações no futuro.
 
+OBS.: Faltando a página do carrinho!!
 
 
