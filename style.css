@@ -1,18 +1,10 @@
 * {
     font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
 }
 
 .nav-link {
     font-weight: 300;
-}
-
-.dropdown-item:active {
-    background: #000;
-}
-
-.img-carroseul{
-    width: 750px;
-    height: 350px;
 }
 
 .nav2 {
@@ -35,11 +27,6 @@ a {
     color: white;
 }
 
-* {
-    margin: 0px;
-    padding: 0px;
-}
-
 .traço {
     color: #000;
     font-weight: 300;
@@ -57,9 +44,6 @@ a {
 }
 
 .faixa {
-    display: block; 
-    margin-left: auto; 
-    margin-right: auto;
-    border-radius: 5px;
     margin-bottom: 10px;
 }
+
