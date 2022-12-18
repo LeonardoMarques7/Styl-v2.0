@@ -1,0 +1,33 @@
+Projeto Styl v2.0 - com Bootstrap 5.2
+
+Para quem não conhece a Styl é uma empresa que faz a venda de roupa, podemos usar como exemplo a SHEIN, é uma loja on-line de venda de roupas.
+A diferença dessa versão 2.0, é que sera usado o Bootstrap!
+
+No ínicio da página seria composto por divisões:
+
+1. Navbar - Será feita com a logo 
+2. Faixa - Uma 'faixa' que seria uma imagem logo após a navbar
+3. Nav - Outra barra de navegação só que com atalhos pra seções. Exem.: Masculino | Feminino | Infantil
+4. Cards - Os cards seriam colocados de forma organizadas com espços iguais, usando o Bootstrap nos auxiliar
+
+Pronto esse é projeto da primeira parte do nosso site de roupa.
+
+Atualização 17.12.22
+
+Consegui colcuir a pagína inicial, e estou dando a base da seção feminina com banner e o seus cards.
+A parte das seções será mais tranquila por que usarei a base da seção feminina para as outras seções assim facilitando o meu trabalho.
+
+-------------------------------------
+
+Progresso:
+
+OK = Concluído | NO = Não concluída
+
+Página Inicial - OK
+Página Feminina - NO
+Página Masculina - NO
+Página Infantil - NO
+
+-------------------------------------
+
+
