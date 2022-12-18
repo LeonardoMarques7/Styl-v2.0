@@ -24,10 +24,20 @@ Progresso:
 OK = Concluído | NO = Não concluída
 
 Página Inicial - OK
-Página Feminina - NO
-Página Masculina - NO
-Página Infantil - NO
+Página Feminina - OK
+Página Masculina - OK
+Página Infantil - OK
 
 -------------------------------------
+
+Projeto Finalizado, com seção Feminina, Masculino, Infantil e Personagens 
+
+Upei o site no GitHub - Perfil: LeonardoMarques7 
+
+
+Fiquei bem feliz com o resultado, acho que inserir o BootStrap me ajudou basntante na questão de responsividade e alinhamento dos elementos.
+
+Provavelmente farei outras alterações no futuro.
+
 
 
