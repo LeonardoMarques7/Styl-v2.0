@@ -115,3 +115,7 @@ a:hover {
     border-radius: 5px;
     border: #000 double 1px;
 }
+
+.form-buscar {
+    display: flex;
+}
